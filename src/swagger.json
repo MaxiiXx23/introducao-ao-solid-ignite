@@ -2,7 +2,7 @@
     "openapi": "3.0.0",
     "info": {
         "title": "Challenge API SOLID",
-        "description": "This API was build following the concept SOLID, your function is create users.",
+        "description": "This API was build following the concept SOLID, your function is create and to manage users.",
         "version": "1.0.0",
         "concact": {
             "email": "max.232017@gmail.com"
